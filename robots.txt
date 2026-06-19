@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin
+
+Allow: /sitemap.xml
+
+Sitemap:https://doodle-baseball.github.io/sitemap.xml
